@@ -1,0 +1,13 @@
+FICHIER DE SAUVEGARDE
+#Globules Blancs : (20;18) (16;20) (19;20) 
+#
+Virus : (10;8) 
+#
+Cases Bloquees : (19;7) 
+#
+Points de controle : (21;20) 
+#
+Entree Virus : (12;9) 
+#
+Entree GR: (8;13) 
+#

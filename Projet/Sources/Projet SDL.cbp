@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet SDL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Projet SDL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Projet SDL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:\Program Files\CodeBlocks\SDL-1.2.14\include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\libfmod.a" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\SDL_image.lib" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\SDL_ttf.lib" />
+			<Add directory="C:\Program Files\CodeBlocks\SDL-1.2.14\lib" />
+		</Linker>
+		<Unit filename="affichage_sdl.cpp" />
+		<Unit filename="affichage_sdl.h" />
+		<Unit filename="editeur.cpp" />
+		<Unit filename="editeur.h" />
+		<Unit filename="extraction_fichier.cpp" />
+		<Unit filename="extraction_fichier.h" />
+		<Unit filename="ia.cpp" />
+		<Unit filename="ia.h" />
+		<Unit filename="jeu.cpp" />
+		<Unit filename="jeu.h" />
+		<Unit filename="listes.cpp" />
+		<Unit filename="listes.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="masque.cpp" />
+		<Unit filename="masque.h" />
+		<Unit filename="outils_main.cpp" />
+		<Unit filename="outils_main.h" />
+		<Unit filename="outils_sdl.cpp" />
+		<Unit filename="outils_sdl.h" />
+		<Unit filename="partie.cpp" />
+		<Unit filename="partie.h" />
+		<Unit filename="ressources.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="structures.h" />
+		<Unit filename="tableau_jeu.cpp" />
+		<Unit filename="tableau_jeu.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="affichage_sdl.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="404" topLine="6" />
+	</File>
+	<File name="affichage_sdl.h" open="1" top="0" tabpos="14">
+		<Cursor position="656" topLine="3" />
+	</File>
+	<File name="editeur.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="397" topLine="0" />
+	</File>
+	<File name="editeur.h" open="0" top="0" tabpos="6">
+		<Cursor position="247" topLine="0" />
+	</File>
+	<File name="extraction_fichier.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="1223" topLine="36" />
+	</File>
+	<File name="extraction_fichier.h" open="1" top="0" tabpos="12">
+		<Cursor position="615" topLine="0" />
+	</File>
+	<File name="ia.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1178" topLine="30" />
+	</File>
+	<File name="ia.h" open="0" top="0" tabpos="9">
+		<Cursor position="234" topLine="0" />
+	</File>
+	<File name="jeu.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="4224" topLine="154" />
+	</File>
+	<File name="jeu.h" open="0" top="0" tabpos="12">
+		<Cursor position="1028" topLine="0" />
+	</File>
+	<File name="listes.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2526" topLine="0" />
+	</File>
+	<File name="listes.h" open="0" top="0" tabpos="7">
+		<Cursor position="329" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="430" topLine="12" />
+	</File>
+	<File name="masque.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="660" topLine="17" />
+	</File>
+	<File name="masque.h" open="0" top="0" tabpos="8">
+		<Cursor position="288" topLine="0" />
+	</File>
+	<File name="outils_main.cpp" open="1" top="1" tabpos="17">
+		<Cursor position="452" topLine="0" />
+	</File>
+	<File name="outils_sdl.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="388" topLine="9" />
+	</File>
+	<File name="outils_sdl.h" open="1" top="0" tabpos="15">
+		<Cursor position="365" topLine="0" />
+	</File>
+	<File name="partie.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="5401" topLine="0" />
+	</File>
+	<File name="partie.h" open="0" top="0" tabpos="6">
+		<Cursor position="160" topLine="0" />
+	</File>
+	<File name="ressources.rc" open="1" top="0" tabpos="1">
+		<Cursor position="24" topLine="0" />
+	</File>
+	<File name="structures.h" open="1" top="0" tabpos="9">
+		<Cursor position="410" topLine="0" />
+	</File>
+	<File name="tableau_jeu.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2976" topLine="81" />
+	</File>
+	<File name="tableau_jeu.h" open="0" top="0" tabpos="11">
+		<Cursor position="997" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

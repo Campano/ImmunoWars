@@ -1,0 +1,1 @@
+Attention, le fichier setup a déjà fait planter l'ordi d'un camarade, on ne sait pas bien pourquoi. Sinon il y a l'exécutable dans le bin ou encore le fichier C::B pour recompiler.

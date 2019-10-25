@@ -1,0 +1,376 @@
+# depslib dependency file v1.0
+1274613035 source:c:\users\nicolas\desktop\projet sdl\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	"structures.h"
+	<SDL/SDL.h>
+	<SDL/SDL_getenv.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	<SDL_image/SDL_image.h>
+	<SDL_ttf/SDL_ttf.h>
+	"fmod.h"
+	"fmod_errors.h"
+	"wincompat.h"
+	"partie.h"
+	"editeur.h"
+	"outils_main.h"
+
+1274612569 c:\users\nicolas\desktop\projet sdl\structures.h
+
+1274098658 c:\users\nicolas\desktop\projet sdl\extraction_fichier.h
+	"structures.h"
+	"listes.h"
+
+1274107992 c:\users\nicolas\desktop\projet sdl\listes.h
+	"structures.h"
+
+1272817751 c:\users\nicolas\desktop\projet sdl\affichage.h
+	"structures.h"
+
+1274114420 c:\users\nicolas\desktop\projet sdl\masque.h
+	"structures.h"
+
+1274112294 c:\users\nicolas\desktop\projet sdl\jeu.h
+	"structures.h"
+	"tableau_jeu.h"
+	"listes.h"
+
+1274157809 c:\users\nicolas\desktop\projet sdl\tableau_jeu.h
+	"structures.h"
+	"listes.h"
+
+1274612569 source:c:\users\nicolas\desktop\projet sdl\extraction_fichier.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"extraction_fichier.h"
+
+1274112268 source:c:\users\nicolas\desktop\projet sdl\jeu.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jeu.h"
+
+1274107964 source:c:\users\nicolas\desktop\projet sdl\listes.cpp
+	<stdio.h>
+	<stdlib.h>
+	"listes.h"
+
+1274171541 source:c:\users\nicolas\desktop\projet sdl\masque.cpp
+	<stdio.h>
+	<stdlib.h>
+	"masque.h"
+
+1272897082 source:c:\users\nicolas\desktop\projet sdl\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255804064 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\begin_code.h
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\close_code.h
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804050 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255804049 c:\program files\codeblocks\sdl-1.2.14\include\sdl\sdl_getenv.h
+	"SDL_stdinc.h"
+
+1274157742 c:\users\nicolas\desktop\projet sdl\partie.h
+	"structures.h"
+	"extraction_fichier.h"
+	"affichage_sdl.h"
+	"masque.h"
+	"jeu.h"
+	"outils_sdl.h"
+	"ia.h"
+
+1274171542 source:c:\users\nicolas\desktop\projet sdl\partie.cpp
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"partie.h"
+
+1274112390 source:c:\users\nicolas\desktop\projet sdl\tableau_jeu.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tableau_jeu.h"
+
+1274613127 source:c:\users\nicolas\desktop\projet sdl\outils_sdl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"structures.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image/SDL_image.h>
+	<SDL_ttf/SDL_ttf.h>
+	"outils_sdl.h"
+
+1274157665 c:\users\nicolas\desktop\projet sdl\affichage_sdl.h
+	"structures.h"
+	"jeu.h"
+	"outils_sdl.h"
+	"masque.h"
+	"tableau_jeu.h"
+
+1274159261 c:\users\nicolas\desktop\projet sdl\outils_sdl.h
+	"structures.h"
+	"affichage_sdl.h"
+
+1274612880 source:c:\users\nicolas\desktop\projet sdl\affichage_sdl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"structures.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	<SDL_ttf/SDL_ttf.h>
+	"fmod.h"
+	"fmod_errors.h"
+	"wincompat.h"
+	"affichage_sdl.h"
+
+1273567063 source:c:\users\nicolas\desktop\projet sdl\masque.c
+	<stdio.h>
+	<stdlib.h>
+	"masque.h"
+
+1274174591 source:c:\users\nicolas\desktop\projet sdl\editeur.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"editeur.h"
+
+1274157693 c:\users\nicolas\desktop\projet sdl\editeur.h
+	"structures.h"
+	"affichage_sdl.h"
+	"outils_sdl.h"
+
+1273564700 source:c:\users\nicolas\desktop\projet sdl\extraction_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"extraction_fichier.h"
+
+1273768526 source:c:\users\nicolas\desktop\projet sdl\ia.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ia.h"
+
+1274157708 c:\users\nicolas\desktop\projet sdl\ia.h
+	"structures.h"
+	"masque.h"
+	"listes.h"
+	"tableau_jeu.h"
+
+1273569076 source:c:\users\nicolas\desktop\projet sdl\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jeu.h"
+
+1273763720 source:c:\users\nicolas\desktop\projet sdl\listes.c
+	<stdio.h>
+	<stdlib.h>
+	"listes.h"
+
+1274172032 source:c:\users\nicolas\desktop\projet sdl\ia.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ia.h"
+
+1274138253 c:\users\nicolas\desktop\projet sdl\outils_main.h
+
+1274154464 source:c:\users\nicolas\desktop\projet sdl\outils_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_getenv.h>
+	<FMOD/fmod.h>
+	"outils_main.h"
+
+1274164084 source:c:\users\nicolas\desktop\projet sdl\ressources.rc
+
